@@ -249,7 +249,7 @@
 												{
 													"attribute": "noDataText",
 													"grouping": "Properties",
-													"value": "Example - Bind Your Data Here",
+													"value": "Version 2",
 													"script": "",
 													"translation": []
 												},
@@ -1021,7 +1021,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.06.04.0954",
+	"ver": "25.06.04.1022",
 	"application": "app_mktplace_versions_git",
 	"title": "",
 	"description": "",
