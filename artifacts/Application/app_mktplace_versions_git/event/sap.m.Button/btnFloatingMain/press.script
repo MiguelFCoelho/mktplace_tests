@@ -1,0 +1,6 @@
+diaPop.popCallback = function(msg) {
+
+    jQuery.sap.require("sap.m.MessageToast");
+    sap.m.MessageToast.show(msg || "Some Message...");
+};
+diaPop.openBy(this);
