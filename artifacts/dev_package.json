@@ -4,11 +4,11 @@
 	"createdBy": "miguel.coelho@neptune-software.com",
 	"git": {
 		"remote": "https://github.com/MiguelFCoelho/mktplace_tests",
-		"branch": "Version2"
+		"branch": "main"
 	},
 	"name": "mkpltace_git_versions_test",
 	"description": null,
-	"ver": "25.06.04.0957",
+	"ver": "25.06.04.1505",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,

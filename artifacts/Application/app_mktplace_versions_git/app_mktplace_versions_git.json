@@ -249,7 +249,7 @@
 												{
 													"attribute": "noDataText",
 													"grouping": "Properties",
-													"value": "Version 2",
+													"value": "Version 3",
 													"script": "",
 													"translation": []
 												},
@@ -1021,7 +1021,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.06.04.1022",
+	"ver": "25.06.04.1505",
 	"application": "app_mktplace_versions_git",
 	"title": "",
 	"description": "",
